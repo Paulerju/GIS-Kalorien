@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <title>Kalorienrechner</title>
+ <meta name="Kalorienzähler" content="Errechnen der Kalorien">
+ <meta name="keywords" content="Kalorien, rechnen, zählen">
+   <meta name="author" content="Judith Pauler">
+
+</head>
+
+<style>
+    footer {
+      text-align: center;
+      padding: 3px;
+      background-color: DarkSalmon;
+      color: white;
+    }
+    body{background-image: url( "https://image.shutterstock.com/image-vector/health-care-science-icon-pattern-260nw-1055756720.jpg");}
+
+
+    </style>
+
+<body>
+
+    <main>
+
+        <h1> How much do you weight? </h1>
+        <p></p>
+        <h2> How tall are you? </h2>
+        <p></p>
+        <h3> How old are you? </h3>
+
+        </main>
+
+
+        <footer>
+            <p>Author: Judith Pauler</p>
+            <p><a href="mailto:Pauler@example.com">hege@example.com</a></p>
+          </footer> 
+</body>
+</html>
